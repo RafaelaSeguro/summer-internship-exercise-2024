@@ -1,7 +1,7 @@
 package com.premiumminds.internship.teknonymy;
 
 /**
- * Object to store name and the level of the generation of the descendant
+ * Object to store a person object and the corresponding generation level
  */
 public class Info {
 
